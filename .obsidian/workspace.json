@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "ed4a3b8878273a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc832905a55a97c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "227d1558a6841088",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64b25629cce9bac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "93faa1cca7b7e7dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06ff9ffdb0799b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "786a059f6a90c266",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3647904f67131e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "185f4ce4790afdd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc9c1ea486a6bac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df9436b25a4f7a3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculus/0 To Remember.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95a9f72d3cd78eda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calculus/0 To Remember.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e41a7a946ba0eb2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a296d2d9285e841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculus/0 To Remember.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c06ff9ffdb0799b0",
+  "lastOpenFiles": [
+    "Calculus/1 Examples.md",
+    "Calculus/0 To Remember.md"
+  ]
+}
